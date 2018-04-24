@@ -1,0 +1,22 @@
+{
+  "name": "tstweb",
+  "version": "1.0.0",
+  "description": "the website for TST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonYje/tstweb.git"
+  },
+  "keywords": [
+    "tst"
+  ],
+  "author": "yangjiae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonYje/tstweb/issues"
+  },
+  "homepage": "https://github.com/jasonYje/tstweb#readme"
+}
